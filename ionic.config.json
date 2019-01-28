@@ -1,0 +1,7 @@
+{
+  "name": "tdapp",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
